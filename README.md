@@ -24,5 +24,4 @@ encontradas anteriormente
 
 
 
-## En Imagenes se encuentran las imagenes que se desarrrllaron por medio de los programas contenidos 
-en codigos.
+## En Imagenes se encuentran las imagenes que se desarrrllaron por medio de los programas contenidos en codigos.
