@@ -1,4 +1,4 @@
-Constantes opticas de peliculas delgadas
+#Constantes opticas de peliculas delgadas
 
 Este repositorio fue creado para guardar los codigos realizados en python para el desarrollo del informe 
 "Estudio de constantes ópticas en películas delgadas". Existen dos partes:
