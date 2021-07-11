@@ -1,9 +1,9 @@
-#Constantes opticas de peliculas delgadas
+# Constantes opticas de peliculas delgadas
 
 Este repositorio fue creado para guardar los codigos realizados en python para el desarrollo del informe 
 "Estudio de constantes ópticas en películas delgadas". Existen dos partes:
 
-1. En la carpeta codigos se encuentran 6 codigos python que se usaron para el procedimiento de los datos.
+## En la carpeta codigos se encuentran 6 codigos python que se usaron para el procedimiento de los datos.
 
 
 1.1  datos.py En este programa se toman los datos que fueron dados por el profesor y se encuentran los maximos 
@@ -24,5 +24,5 @@ encontradas anteriormente
 
 
 
-2. En Imagenes se encuentran las imagenes que se desarrrllaron por medio de los programas contenidos 
+## En Imagenes se encuentran las imagenes que se desarrrllaron por medio de los programas contenidos 
 en codigos.
